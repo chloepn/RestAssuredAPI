@@ -1,0 +1,16 @@
+files/SpecBuilderTest.class
+files/payload.class
+com/company/Main.class
+POJO/GetCourse.class
+files/Ecommerce.class
+POJO/API.class
+POJO/GetPlace.class
+POJO/LoginRequest.class
+POJO/Location.class
+POJO/Mobile.class
+POJO/LoginResponse.class
+files/serializeTest.class
+POJO/WebAutomation.class
+POJO/Courses.class
+files/ReUsableMethods.class
+files/ComplexJsonParse.class
